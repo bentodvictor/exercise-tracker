@@ -2,8 +2,9 @@
 ## FreeCodeCamp Challenge
 
 Responses:
-``` json
+
 Exercise:
+``` json
 {
   username: "fcc_test",
   description: "test",
@@ -13,16 +14,16 @@ Exercise:
 }
 ```
 
-``` json
 User:
+``` json
 {
   username: "fcc_test",
   _id: "5fb5853f734231456ccb3b05"
 }
 ```
 
-``` json
 Log:
+``` json
 {
   username: "fcc_test",
   count: 1,
